@@ -20,5 +20,5 @@ A Python project to track, analyze, and provide recommendations for individual w
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/workoutplan-analyzer.git
+git clone https://github.com/LeibGit/fitness_reccomendation_engine.git
 cd workoutplan-analyzer
